@@ -1,0 +1,50 @@
+"Create a mission document in formal South African Business English using the following information. Format the output with clear headings, bullet points, and tables where applicable. Ensure that every point mentioned in the input (both from voice recordings and typed information) is captured in the final generated document. When including names, only include first names (no titles or surnames). If a name is not specified in the input, use the placeholder **[Assign First Name]**. Each bullet point should provide sufficient detail while remaining succinct.
+
+**Mission Document**
+
+**Project Title:** [Insert Project Title]
+**Date:** [Assign Date]
+
+**1. Project Objective:**
+- [Bullet point summarising the project objective – include enough detail to explain the goal clearly. Ensure every objective mentioned is included.]
+
+**2. Scope and Deliverables:**
+- [Bullet point summarising scope item 1 – provide sufficient detail on what is included]
+- [Bullet point summarising scope item 2 – ensure clarity on deliverable aspects]
+- [Include all additional scope items or deliverables mentioned, with detailed yet summarised bullet points]
+
+**3. Stakeholders:**
+- [Stakeholder 1 – Role or **[Assign First Name]** – include a brief detail on their involvement]
+- [Stakeholder 2 – Role or **[Assign First Name]** – summarise their responsibilities]
+- [Include all additional stakeholders mentioned with concise descriptions; only include first names without titles]
+
+**4. Ownership and Accountability:**
+
+| Project Area         | Owner                | Accountable          |
+|----------------------|----------------------|----------------------|
+| [Area 1]             | [Assign First Name]  | [Assign First Name]  |
+| [Area 2]             | [Assign First Name]  | [Assign First Name]  |
+| ...                  | ...                  | ...                  |
+
+**5. Key Decisions:**
+
+| Decision                                        | Date            | Rationale                                               |
+| :---------------------------------------------- | :-------------- | :------------------------------------------------------ |
+| [Decision 1]                                    | [Assign Date]   | [Summarise the rationale with enough detail – include every decision mentioned]            |
+| [Decision 2]                                    | [Assign Date]   | [Provide key reasons in a brief yet detailed manner]     |
+| ...                                             | ...             | ...                                                     |
+
+**6. Action Plan:**
+
+| Task                          | Responsible Person      | Deadline         | Status                        |
+|-------------------------------|-------------------------|------------------|-------------------------------|
+| [Task 1 – e.g., Planning]     | [Assign First Name]     | [Assign Date]    | [Open/In Progress/Complete – add a brief update if needed; ensure all tasks mentioned are captured] |
+| [Task 2 – e.g., Kick-off]     | [Assign First Name]     | [Assign Date]    | [Open/In Progress/Complete – summarise progress briefly]   |
+| ...                           | ...                     | ...              | ...                           |
+
+**7. Optional: Voice Recording:**
+- [Provide link or note stating "Voice Recording Included" or "No Voice Recording"]
+
+**Mission Summary (Bullet Points):**
+- [Briefly summarise the key objectives and outcomes in bullet points – include every point mentioned in the input]
+- [Highlight key decisions and immediate next steps with concise yet informative bullet points]"

@@ -1,0 +1,42 @@
+"Create a meeting summary note in formal South African Business English using the following information. Format the output with clear headings, bullet points, and tables where applicable. Ensure that every point mentioned—whether in the voice recording or in the typed information—is included in the final document. When including names, only include first names (no titles or surnames). If a name is not specified in the input, use the placeholder **[Assign First Name]**. Each bullet point should be detailed enough to capture essential information while remaining succinct.
+
+**Meeting Notes**
+
+**Meeting Title:** [Insert Meeting Title]
+**Meeting Purpose:** [Insert Meeting Purpose]
+**Attendees:** [Insert List of Attendees – include only first names if applicable]
+**Date:** [Assign Date]
+
+**Discussion Points:**
+- [Bullet point summarising Discussion Point 1 – include key details for clarity. Make sure to include all discussion points mentioned.]
+- [Bullet point summarising Discussion Point 2 – ensure enough context is provided]
+- [Include any additional discussion points provided in the input with detailed yet concise summaries]
+
+**Action Items:**
+
+| Action Item                                    | Responsible Person      |
+| :--------------------------------------------- | :---------------------- |
+| [Action Item 1 - e.g., Follow up with client X] | [Assign First Name]     |
+| [Action Item 2 - e.g., Prepare presentation]    | [Assign First Name]     |
+| [Include every action item mentioned in the meeting using only first names] | ...             |
+
+**Outcomes:**
+- [Bullet point summarising Outcome 1 – include details to convey the impact; ensure all outcomes are covered]
+- [Bullet point summarising Outcome 2 – provide a concise yet detailed summary]
+- [Include any additional outcomes mentioned with sufficient detail]
+
+**Key Decisions:**
+
+| Decision                                        | Responsible Person (if applicable) |
+| :---------------------------------------------- | :--------------------------------- |
+| [Decision 1 - e.g., Proceed with Project Alpha] | [Assign First Name]                |
+| [Decision 2 - e.g., Change Marketing Strategy]   | [Assign First Name]                |
+| [Include all key decisions mentioned in the input using only first names] | ...                                |
+
+**Next Steps:**
+- [Bullet point outlining Next Step 1 – include details such as timeframes or specific tasks; ensure all next steps are included]
+- [Bullet point outlining Next Step 2 – provide enough context for follow-up actions]
+- [Include any additional next steps mentioned with clear, summarised details]
+
+**Meeting Summary (Bullet Points):**
+- [Briefly summarise the key takeaways in bullet points – ensure every point mentioned in the meeting is represented]"
